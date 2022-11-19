@@ -1,0 +1,12 @@
+mut,label,type
+trkH G141R,G141R,SNP
+yhjX P326L,P326L,SNP
+"insH21 Δ1,199 bp",ups Δ,upstream
+DLP12 amplification,amp,amp
+trkH P151T,P151T,SNP
+brnQ Δ1 bp (81/1320 nt),Δ1 bp,frameshift
+xylF Q187*,Q187*,SNP
+ROS deletion,Δ,del
+"renD, emrE IS1 +9",ups +,upstream
+pitA +T (5/1500 nt),+T,frameshift
+Spermidine deletion,Δ,del
