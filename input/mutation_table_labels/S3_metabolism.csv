@@ -1,0 +1,43 @@
+mut,label,type,gene_category
+ilvH T42K,T42K,SNP,other_met
+aceE I12F,I12F,SNP,central
+aceE Q409*,Q409*,nonsense SNP,central
+aceE 2 bp→CA (I690T),I690T,SNP,central
+aceE Δ1 bp (2069/2664 nt),Δ1,frameshift,central
+aceE I690N,I690N,SNP,central
+aceE Q791*,Q791*,nonsense SNP,central
+cyoB V503L,V503L,SNP,redox
+ubiF W222*,W222*,nonsense SNP,redox
+gltA L8P,L8P,SNP,central
+sucA R182L,R182L,SNP,central
+sucA G594S,G594S,SNP,central
+aroG (A)5→4 (830/1053 nt),Δ1,frameshift,other_met
+mgsA V30E,V30E,SNP,other_met
+icd L375M 1,L375M,SNP,central
+icd L375M 2,L375M,SNP,central
+icd T370T,-,SNP,central
+icd H366H,-,SNP,central
+ppsA I645N,I645N,SNP,central
+zwf E489*,E489*,nonsense SNP,central
+zwf R485C,R485C,SNP,central
+zwf T481S,T481S,SNP,central
+zwf G472E,G472E,SNP,central
+torZ H11Q,H11Q,SNP,redox
+nuoM IS1 +9,9,insertion,redox
+nuoM Y269*,Y269*,nonsense SNP,redox
+nuoG Δ123 bp (333‑455/2727 nt),Δ123,deletion,redox
+nuoG Δ40 bp (342‑381/2727 nt),Δ40,deletion,redox
+nuoC P569L,P569L,SNP,redox
+pta T498M,T498M,SNP,other_met
+pta Q626E,Q626E,SNP,other_met
+cpdA D209Y,D209Y,SNP,regulatory
+arcB Δ1 bp (2019/2337 nt),Δ1,frameshift,regulatory
+coaA R315H,R315H,SNP,other_met
+"lacZ, lacI deletion",Δ595,deletion,other_met
+lacZ deletion 1,Δ274,deletion,other_met
+lacZ deletion 2,Δ204,deletion,other_met
+ROS deletion,Δ,deletion,redox
+glnX noncoding,C→T,SNP,central
+arcA E26*,E26*,nonsense SNP,regulatory
+e14 deletion,Δe14,deletion,central
+"ung,yfiF,trxC,yfiP,patZ Δ3,274 bp",Δ,deletion,redox
