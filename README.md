@@ -1,5 +1,5 @@
 # ROS-ALE
-Generates all figures for the manuscript "Laboratory evolution and advanced data analytics reveal systems biology of ROS tolerance" by Kevin Rychel, et al.
+Generates all figures for the manuscript "Lab evolution, transcriptomics, and modeling reveal mechanisms of paraquat tolerance" by Kevin Rychel, et al.
 
 ## Additional Repositories
 1. [Modulome-Workflow](https://github.com/avsastry/modulome-workflow): Aligns RNA sequencing reads to the genome and computes iModulons. input/precise1k_kr.json was generated using this repository.
