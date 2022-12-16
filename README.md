@@ -1,6 +1,8 @@
 # ROS-ALE
 Generates all figures for the manuscript "Lab evolution, transcriptomics, and modeling reveal mechanisms of paraquat tolerance" by Kevin Rychel, et al.
 
+[![DOI](https://zenodo.org/badge/567983194.svg)](https://zenodo.org/badge/latestdoi/567983194)
+
 ## Additional Repositories
 1. [Modulome-Workflow](https://github.com/avsastry/modulome-workflow): Aligns RNA sequencing reads to the genome and computes iModulons. input/precise1k_kr.json was generated using this repository.
 2. [PyModulon](https://github.com/SBRG/pymodulon): Class and functions for analyzing iModulons. Functions for reading input/precise1k_kr.json, making iModulon-related plots, and generating iModulonDB.org pages are in this repository.
